@@ -1,0 +1,73 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		BB63EF1527809CD600D02957 /* firstCommit.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = firstCommit.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		BB63EF0E27809C6500D02957 = {
+			isa = PBXGroup;
+			children = (
+				BB63EF1527809CD600D02957 /* firstCommit.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		BB63EF0F27809C6500D02957 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = BB63EF1227809C6500D02957 /* Build configuration list for PBXProject "commitTest" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BB63EF0E27809C6500D02957;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		BB63EF1327809C6500D02957 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		BB63EF1427809C6500D02957 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BB63EF1227809C6500D02957 /* Build configuration list for PBXProject "commitTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BB63EF1327809C6500D02957 /* Debug */,
+				BB63EF1427809C6500D02957 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BB63EF0F27809C6500D02957 /* Project object */;
+}
